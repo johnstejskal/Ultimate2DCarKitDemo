@@ -1,0 +1,16 @@
+{
+"companyName": "Lost Relic Games",
+"productName": "Ultimate 2D Car Kit",
+"productVersion": "0.1",
+"dataUrl": "ultimate-2d-car-kit.data.unityweb",
+"wasmCodeUrl": "ultimate-2d-car-kit.wasm.code.unityweb",
+"wasmFrameworkUrl": "ultimate-2d-car-kit.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
